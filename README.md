@@ -69,9 +69,6 @@ I'm **Mani**, an aspiring software developer from **Iran** 🇮🇷 with a passi
 ## 🌐 **Visitor Counter**
 ![Visitor Count](https://profile-counter.glitch.me/maniwrld/count.svg)
 
-## 💬 **Quote**
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 
 ## 🌐 **Learn About HTTPS**
